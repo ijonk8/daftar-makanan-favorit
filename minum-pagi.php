@@ -8,3 +8,5 @@ echo 'Milo Hangat';
 
 echo 'Minuman pagi adalah Air Susu' . "<br>";
 echo 'Jahe Hangat';
+
+echo 'Minuman pagi adalah Air Kelapa' . "<br>";
