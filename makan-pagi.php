@@ -7,3 +7,5 @@ echo 'Atau Mie ayam';
 echo 'Dan lontong sayur';
 
 echo 'Nyemil Donat';
+
+echo 'Nyemil Piscok';
